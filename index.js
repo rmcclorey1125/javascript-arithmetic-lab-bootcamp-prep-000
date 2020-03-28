@@ -13,3 +13,11 @@ function multiply(numberOne, numberTwo) {
 function divide(numberOne, numberTwo) {
   return numberOne / numberTwo
 }
+
+function increment(n) {
+  return n += 1
+}
+
+function decrement(n) {
+  return n -= 1
+}
